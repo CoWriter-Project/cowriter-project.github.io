@@ -1,8 +1,16 @@
-github: [metadata]
- kramdown:
-   input: GFM
-   hard_wrap: false
- gems:
-   - jekyll-coffeescript
-   - jekyll-paginate
-theme: jekyll-theme-tactile
+title: CoWriter-Projet
+author: Wafa Johal
+email: wafa.johal@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  CoWriter is a research project aiming to help children with handwriting difficulties by engaging in long-term interactions 
+  with a social robot.
+baseurl: ""
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock

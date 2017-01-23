@@ -10,4 +10,5 @@ because they unconsciously feel that they are somehow responsible if the robot d
 they commit to the interaction, and make particular efforts to figure out what is difficult for the robot, 
 thus developing their metacognitive skills and reflecting on their own errors.
 
-[[downloads.md][Click here for downloads]]
+
+[Downloads page](downloads.md)

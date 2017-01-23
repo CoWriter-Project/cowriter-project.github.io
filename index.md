@@ -1,3 +1,6 @@
+Welcome to the Page
+===================
+
 The CoWriter Project aims at exploring how a robot can help children with the acquisition of handwriting, with an original approach: the children are the teachers who help the robot to better write! 
 This paradigm, known as learning by teaching, has several powerful effects: 
 it boosts the children' self-esteem (which is especially important for children with handwriting difficulties), 

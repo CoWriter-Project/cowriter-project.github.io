@@ -1,7 +1,5 @@
-
-
 ---
-title: Downloads
+Downloads
 ---
 
 HEY THERE

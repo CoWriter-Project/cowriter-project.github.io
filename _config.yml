@@ -10,7 +10,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
 exclude:
   - Gemfile
   - Gemfile.lock
